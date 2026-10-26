@@ -1,0 +1,3 @@
+Cyber Security Internship — Codec Technologies
+This is a sample file for AES, RSA hybrid encryption, and SHA-256 demonstrations.
+Change this text to see a different SHA-256 fingerprint.
